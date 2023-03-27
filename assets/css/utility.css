@@ -1,0 +1,16 @@
+:root{
+    --color-primary:#f6d200;
+    --color-secondary:#ededed;
+    --color-white:#fff;
+    --color-dark:#000;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+
+
+a:link,a:visited {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
